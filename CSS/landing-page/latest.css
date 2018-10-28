@@ -1,0 +1,38 @@
+#latest {
+    padding: 50px 0;
+}
+
+#latest .header:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#latest .header h1 {
+    color: #6066F2;
+    font-size: 4.2rem;
+    max-width: 400px;
+    width: 100%;
+}
+
+#latest .header .directions {
+    float: right;
+}
+
+#latest .header .directions .move-left {
+    float: left;
+    padding: 20px 70px;
+    font-size: 3rem;
+    background: #6066F2;
+    color: white;
+    border: 1px solid #6066F2;
+}
+
+#latest .header .directions .move-right {
+    float: right;
+    padding: 20px 70px;
+    font-size: 3rem;
+    background: white;
+    color: #cecece;
+    border: 1px solid #cecece;
+}
