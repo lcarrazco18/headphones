@@ -100,3 +100,14 @@ background: linear-gradient(135deg, #232c66 0%,#6066f2 100%); /* W3C, IE10+, FF1
     color: #FEA83B;
 }
 
+/*LAPTOP DEVICES*/
+@media only screen and (max-width: 1215px) {
+}
+
+/*TABLET DEVICES*/
+@media only screen and (max-width: 1023px) {
+}
+
+/* MOBILE DEVICES*/
+@media only screen and (max-width: 767px) {
+}
