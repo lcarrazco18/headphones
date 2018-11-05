@@ -343,7 +343,11 @@
     #latest .footer .info-box .input-area:nth-child(1) {
         margin: 0;
         width: 50%;
-        margin-bottom: 100px;
+        margin-bottom: 50px;
+    }
+    #latest .footer .info-box .input-area:nth-child(1) input {
+        margin: 0;
+        width: 80%;
     }
     #latest .footer .info-box .input-area:nth-child(2) {
         margin: 0;
@@ -397,6 +401,7 @@
     #latest .footer .info-box .input-area:nth-child(1) {
         margin: 0;
         width: 100%;
+        margin-bottom: 50px;
     }
     #latest .footer .info-box .input-area:nth-child(2) {
         margin: 0;
